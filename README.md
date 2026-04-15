@@ -1,1 +1,1 @@
-A github opener project
+A github opening project
